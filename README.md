@@ -58,7 +58,3 @@ Por defecto no se incluye una licencia. Si deseas que el proyecto sea reutilizab
 
 **Contacto**
 - Autor: `jaavierdz` (GitHub). Abre issues en el repositorio para preguntas o propuestas.
-
----
-
-Si quieres, puedo: añadir una licencia (`MIT`), crear ejemplos reales de uso para cada script, o traducir el README al inglés.
